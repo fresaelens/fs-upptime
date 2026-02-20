@@ -9,10 +9,10 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Citymesh COM
-    url: https://citymesh.com
-  - name: Citymesh BE
-    url: https://citymesh.be
+  - name: Test Site 1
+    url: $CSBEOKPS13_SSTP
+    check: "tcp-ping"
+    port: 443
   - name: Frerivendell
     url: $FRERIVENDELL_UNIFI_INFORM
     check: "tcp-ping"
