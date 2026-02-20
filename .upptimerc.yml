@@ -9,7 +9,7 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Site 1
+  - name: CM CMB
     url: $CSBEOKPS13_SSTP
     check: "tcp-ping"
     port: 8443
