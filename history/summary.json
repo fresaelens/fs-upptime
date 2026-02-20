@@ -79,19 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "frerivendell",
     "status": "up",
-    "uptime": "3.15%",
-    "uptimeDay": "3.15%",
-    "uptimeWeek": "3.15%",
-    "uptimeMonth": "3.15%",
-    "uptimeYear": "3.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 101,
     "timeDay": 101,
     "timeWeek": 101,
     "timeMonth": 101,
     "timeYear": 101,
-    "dailyMinutesDown": {
-      "2026-02-20": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
