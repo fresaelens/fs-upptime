@@ -77,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fs-home-web",
     "status": "up",
-    "uptime": "9.02%",
-    "uptimeDay": "9.02%",
-    "uptimeWeek": "9.02%",
-    "uptimeMonth": "9.02%",
-    "uptimeYear": "9.02%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 110,
     "timeDay": 110,
     "timeWeek": 110,
     "timeMonth": 110,
     "timeYear": 110,
-    "dailyMinutesDown": {
-      "2026-02-20": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FS Home SSH",
@@ -97,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fs-home-ssh",
     "status": "up",
-    "uptime": "3.45%",
-    "uptimeDay": "3.45%",
-    "uptimeWeek": "3.45%",
-    "uptimeMonth": "3.45%",
-    "uptimeYear": "3.45%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-02-20": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FS Rivendell",
