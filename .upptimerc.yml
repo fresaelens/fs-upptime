@@ -9,6 +9,14 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
+  - name: Citymesh COM
+    url: https://citymesh.com
+  - name: Citymesh BE
+    url: https://citymesh.be
+  - name: Frerivendell
+    url: $FRERIVENDELL_UNIFI_INFORM
+    check: "tcp-ping"
+    port: 8080
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
