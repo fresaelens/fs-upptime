@@ -12,18 +12,19 @@ sites:
   - name: Test Site 1
     url: $CSBEOKPS13_SSTP
     check: "tcp-ping"
-    port: 443
-  - name: Frerivendell
+    port: 8443
+  - name: FS Home Web
+    url: $FRESAELENSHOME_ROS
+    check: "tcp-ping"
+    port: 8443
+  - name: FS Home SSH
+    url: $FRESAELENSHOME_ROS
+    check: "tcp-ping"
+    port: 1830
+  - name: FS Rivendell
     url: $FRERIVENDELL_UNIFI_INFORM
     check: "tcp-ping"
     port: 8080
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
