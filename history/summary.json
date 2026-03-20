@@ -60,9 +60,9 @@
     "url": "$CSBEOKPS13_SSTP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cm-cmb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 112,
     "timeMonth": 123,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-20": 0
+    }
   },
   {
     "name": "FS Home Web",
@@ -97,11 +99,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fs-home-ssh",
     "status": "up",
-    "uptime": "95.32%",
+    "uptime": "95.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.08%",
-    "uptimeMonth": "95.32%",
-    "uptimeYear": "95.32%",
+    "uptimeMonth": "95.41%",
+    "uptimeYear": "95.41%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
