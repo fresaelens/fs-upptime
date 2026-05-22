@@ -1,7 +1,7 @@
 url: $FRERIVENDELL_UNIFI_INFORM
-status: up
-code: 200
-responseTime: 103
-lastUpdated: 2026-05-21T23:59:45.417Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-05-22T08:57:47.185Z
 startTime: 2026-02-20T16:24:59.761Z
 generator: Upptime <https://github.com/upptime/upptime>
