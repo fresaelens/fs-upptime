@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2026-07-19": 1353,
+      "2026-07-19": 1413,
       "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
@@ -225,12 +225,12 @@
     "url": "$FRESAELENSHOME_ROS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fs-home-ssh",
-    "status": "down",
-    "uptime": "97.16%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "97.16%",
+    "status": "up",
+    "uptime": "97.13%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "97.13%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -290,7 +290,7 @@
       "2026-06-06": 144,
       "2026-06-28": 66,
       "2026-07-06": 264,
-      "2026-07-19": 0
+      "2026-07-19": 60
     }
   },
   {
