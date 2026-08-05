@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cm-cmb",
     "status": "down",
-    "uptime": "16.85%",
+    "uptime": "16.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.85%",
+    "uptimeYear": "16.84%",
     "time": 123,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2026-08-05": 78,
+      "2026-08-05": 269,
       "2026-08-04": 1440,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
@@ -242,9 +242,9 @@
     "url": "$FRESAELENSHOME_ROS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fs-home-ssh",
-    "status": "up",
+    "status": "down",
     "uptime": "97.31%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "97.31%",
@@ -308,7 +308,8 @@
       "2026-06-28": 66,
       "2026-07-06": 264,
       "2026-07-19": 60,
-      "2026-07-20": 238
+      "2026-07-20": 238,
+      "2026-08-05": 0
     }
   },
   {
