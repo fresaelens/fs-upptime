@@ -1,7 +1,7 @@
 url: $FRESAELENSHOME_ROS
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2026-08-05T04:28:55.454Z
+lastUpdated: 2026-08-05T07:11:14.049Z
 startTime: 2026-02-20T16:24:57.756Z
 generator: Upptime <https://github.com/upptime/upptime>
