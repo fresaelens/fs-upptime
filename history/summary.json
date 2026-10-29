@@ -13,7 +13,7 @@
     "time": 95,
     "timeDay": 75,
     "timeWeek": 113,
-    "timeMonth": 100,
+    "timeMonth": 102,
     "timeYear": 95,
     "dailyMinutesDown": {
       "2026-08-12": 108
@@ -33,7 +33,7 @@
     "time": 186,
     "timeDay": 38,
     "timeWeek": 261,
-    "timeMonth": 183,
+    "timeMonth": 188,
     "timeYear": 186,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 256,
     "timeDay": 89,
     "timeWeek": 215,
-    "timeMonth": 258,
+    "timeMonth": 254,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2026-03-14": 41,
@@ -76,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2026-10-29": 130,
+      "2026-10-29": 186,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
@@ -316,7 +316,7 @@
     "time": 126,
     "timeDay": 156,
     "timeWeek": 135,
-    "timeMonth": 122,
+    "timeMonth": 123,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2026-04-21": 98,
@@ -424,11 +424,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "fs-rivendell",
     "status": "down",
-    "uptime": "71.11%",
+    "uptime": "71.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "71.11%",
+    "uptimeYear": "71.09%",
     "time": 114,
     "timeDay": 0,
     "timeWeek": 0,
@@ -438,7 +438,7 @@
       "2026-05-22": 167,
       "2026-06-04": 1223,
       "2026-06-03": 401,
-      "2026-10-29": 130,
+      "2026-10-29": 186,
       "2026-10-28": 1440,
       "2026-10-27": 1440,
       "2026-10-26": 1440,
